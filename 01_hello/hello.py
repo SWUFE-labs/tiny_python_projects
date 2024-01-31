@@ -7,3 +7,4 @@ Purpose : Study hoo to write a python code more format and good.
 """
 
 print("hello, good!")
+print("Hello, World!")
